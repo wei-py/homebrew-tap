@@ -1,8 +1,8 @@
 class Lazymise < Formula
   desc "Terminal UI for managing mise tools, versions, tasks, and environments"
   homepage "https://github.com/wei-py/lazymise"
-  url "https://github.com/wei-py/lazymise/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "bbd37831fcbe9b600e7de2c88d8f53467c1b4333a970281b4cd9a1421adacf8b"
+  url "https://github.com/wei-py/lazymise/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "8e18eac2b44ffaad40419a0b4e3062d34d5d3637f6c467ed986f7dcd1b4e1f48"
   license "MIT"
 
   depends_on "rust" => :build
